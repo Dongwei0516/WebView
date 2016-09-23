@@ -1,0 +1,7 @@
+#Thu Sep 22 10:02:02 CST 2016
+base.0=/Users/dongwei/AndroidStudioProjects/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_536e533838f4c01d009b67066b494f99a50a77cb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dongwei/AndroidStudioProjects/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d032611cb5d03647bb000767eec428d156139783/classes.dex
+base.1=/Users/dongwei/AndroidStudioProjects/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d032611cb5d03647bb000767eec428d156139783
+file.0=/Users/dongwei/AndroidStudioProjects/webview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_536e533838f4c01d009b67066b494f99a50a77cb/classes.dex
